@@ -1,1 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@0;1&display=swap');
 
+ :root{
+    --branco: white;
+    --cor-de-fundo: #00162E;
+    --fundo-senha: #00224D;
+    --fundo-texto: #001E40;
+    --borda: #0075FF;
+    --roboto: 'Reboto', sans-serif;
+    --roboto-mono: 'Reboto Mono', monospace;
+ }
+
+ body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--reboto-mono);
+ }
+
+ .titulo-principal{
+    font-family: var(--reboto-mono);
+    font-size: 32px;
+ }
+
+ .titulo-secundario{
+    font-size: 24px;
+ }
