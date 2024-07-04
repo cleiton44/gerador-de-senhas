@@ -6,7 +6,7 @@
     --fundo-senha: #00224D;
     --fundo-texto: #001E40;
     --borda: #0075FF;
-    --roboto: 'Reboto', sans-serif;
+    --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
  }
 
@@ -41,7 +41,7 @@
    font-family: var(--roboto-mono);
    font-size: 40px;
  }
- #campo-senha:focus{
+ #campo-senha: focus{
    outline: none;
  }
  .conteudo{
