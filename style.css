@@ -7,17 +7,17 @@
     --fundo-texto: #001E40;
     --borda: #0075FF;
     --roboto: 'Reboto', sans-serif;
-    --roboto-mono: 'Reboto Mono', monospace;
+    --roboto-mono: 'Roboto Mono', monospace;
  }
 
  body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
-    font-family: var(--reboto-mono);
+    font-family: var(--roboto-mono);
  }
 
  .titulo-principal{
-    font-family: var(--reboto-mono);
+    font-family: var(--roboto-mono);
     font-size: 32px;
  }
 
